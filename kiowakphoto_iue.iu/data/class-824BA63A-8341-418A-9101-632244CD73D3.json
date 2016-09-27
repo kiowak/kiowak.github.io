@@ -1,0 +1,55 @@
+{
+  "htmlID" : "class",
+  "name" : "class",
+  "positionStorages" : {
+    "c_" : "JDMutableArrayDict",
+    "array" : [
+      {
+        "c_" : "IUPositionStorage",
+        "position" : 0,
+        "xUnit" : 0,
+        "yUnit" : 0,
+        "top" : 0,
+        "left" : 0
+      }
+    ],
+    "keys" : [
+      960
+    ]
+  },
+  "styleStorages" : {
+    "c_" : "JDMutableArrayDict",
+    "array" : [
+      {
+        "c_" : "IUStyleStorage",
+        "widthUnit" : 0,
+        "heightUnit" : 0,
+        "width" : 0,
+        "height" : 0
+      }
+    ],
+    "keys" : [
+      960
+    ]
+  },
+  "propertyStorages" : {
+    "c_" : "JDMutableArrayDict",
+    "array" : [
+      {
+        "c_" : "IUPropertyStorage",
+        "propertyStorage" : {
+          "sheetHeightKey" : 1600
+        }
+      }
+    ],
+    "keys" : [
+      960
+    ]
+  },
+  "eventVariable" : {
+
+  },
+  "ghostOpacity" : 0.5,
+  "m_" : "824BA63A-8341-418A-9101-632244CD73D3",
+  "c_" : "IUClass"
+}

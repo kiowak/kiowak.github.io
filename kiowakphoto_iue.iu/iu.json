@@ -1,0 +1,61 @@
+{
+  "c_" : "IUProject",
+  "viewPorts" : [
+    320,
+    768,
+    960
+  ],
+  "_pageGroup" : {
+    "c_" : "IUSheetGroup",
+    "name" : "pages",
+    "_children" : [
+      {
+        "m_" : "E54A1E53-883D-4B7B-8C4F-8D608ACDA8AB",
+        "c_" : "IUPage",
+        "file_" : "index-E54A1E53-883D-4B7B-8C4F-8D608ACDA8AB.json"
+      }
+    ]
+  },
+  "_classGroup" : {
+    "c_" : "IUSheetGroup",
+    "name" : "compositions",
+    "_children" : [
+      {
+        "m_" : "292C0499-0C54-4FB0-A4A1-9382A11B55C9",
+        "c_" : "IUClass",
+        "file_" : "header-292C0499-0C54-4FB0-A4A1-9382A11B55C9.json"
+      },
+      {
+        "m_" : "429AD09F-D2E5-40A2-AEB4-F7A5E320399E",
+        "c_" : "IUClass",
+        "file_" : "footer-429AD09F-D2E5-40A2-AEB4-F7A5E320399E.json"
+      },
+      {
+        "c_" : "IUClass",
+        "file_" : "sidebar-C6CD1261-B669-4A74-8516-BB646569F703.json",
+        "m_" : "C6CD1261-B669-4A74-8516-BB646569F703"
+      },
+      {
+        "c_" : "IUClass",
+        "file_" : "class-824BA63A-8341-418A-9101-632244CD73D3.json",
+        "m_" : "824BA63A-8341-418A-9101-632244CD73D3"
+      }
+    ]
+  },
+  "_projectData" : {
+    "c_" : "IUProjectReactData",
+    "buildPath" : "$CurrentFolder\/$AppName_react",
+    "resourcePrefix" : "\/resource",
+    "resourceBuildPath" : "$CurrentFolder\/$AppName_react\/resource",
+    "isCreateReactJSFile" : true
+  },
+  "_htmlData" : {
+    "c_" : "IUProjectHTMLData",
+    "buildPath" : "$CurrentFolder\/$AppName_build",
+    "resourcePrefix" : "\/resource",
+    "resourceBuildPath" : "$CurrentFolder\/$AppName_build\/resource",
+    "_port" : 8000
+  },
+  "_documentPath" : "$CurrentFolder\/$AppName_document",
+  "_enableMinWidth" : true
+}

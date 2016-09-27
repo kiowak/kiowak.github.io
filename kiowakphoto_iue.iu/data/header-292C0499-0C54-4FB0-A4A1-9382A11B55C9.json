@@ -1,0 +1,468 @@
+{
+  "htmlID" : "header",
+  "name" : "header",
+  "children" : [
+    {
+      "c_" : "IUCenterBox",
+      "htmlID" : "CenterBox1",
+      "name" : "CenterBox",
+      "children" : [
+        {
+          "c_" : "IUText",
+          "htmlID" : "Text19",
+          "name" : "Site Title",
+          "positionStorages" : {
+            "c_" : "JDMutableArrayDict",
+            "array" : [
+              {
+                "c_" : "IUPositionStorage",
+                "xUnit" : 0,
+                "top" : 10,
+                "left" : 100
+              },
+              {
+                "c_" : "IUPositionStorage",
+                "position" : 0,
+                "verticalCenter" : false,
+                "xUnit" : 0,
+                "yUnit" : 0,
+                "top" : 18,
+                "left" : 25
+              }
+            ],
+            "keys" : [
+              320,
+              960
+            ]
+          },
+          "styleStorages" : {
+            "c_" : "JDMutableArrayDict",
+            "array" : [
+              {
+                "c_" : "IUStyleStorage",
+                "widthUnit" : 0,
+                "heightUnit" : 0,
+                "fontName" : "Montserrat",
+                "fontSize" : 14,
+                "fontColor" : {
+                  "c_" : "NSColor",
+                  "R" : 0.9999960064888,
+                  "G" : 1,
+                  "B" : 1,
+                  "A" : 1
+                },
+                "fontWeight" : 2,
+                "fontAlign" : 0,
+                "fontLetterSpacing" : 15
+              }
+            ],
+            "keys" : [
+              960
+            ]
+          },
+          "propertyStorages" : {
+            "c_" : "JDMutableArrayDict",
+            "array" : [
+              {
+                "c_" : "IUPropertyStorage",
+                "propertyStorage" : {
+                  "IUPropertyTextKey" : "<p>PAPER<\/p>"
+                }
+              }
+            ],
+            "keys" : [
+              960
+            ]
+          }
+        },
+        {
+          "c_" : "IUText",
+          "htmlID" : "Text20",
+          "name" : "Site Description",
+          "positionStorages" : {
+            "c_" : "JDMutableArrayDict",
+            "array" : [
+              {
+                "c_" : "IUPositionStorage",
+                "hidden" : true
+              },
+              {
+                "c_" : "IUPositionStorage",
+                "position" : 0,
+                "verticalCenter" : false,
+                "xUnit" : 0,
+                "yUnit" : 0,
+                "top" : 21,
+                "left" : 155
+              }
+            ],
+            "keys" : [
+              320,
+              960
+            ]
+          },
+          "styleStorages" : {
+            "c_" : "JDMutableArrayDict",
+            "array" : [
+              {
+                "c_" : "IUStyleStorage",
+                "widthUnit" : 0,
+                "heightUnit" : 0,
+                "fontName" : "Lato",
+                "fontSize" : 10,
+                "fontColor" : {
+                  "c_" : "NSColor",
+                  "R" : 0.4756349325180054,
+                  "G" : 0.4756466746330261,
+                  "B" : 0.4756403565406799,
+                  "A" : 1
+                },
+                "fontWeight" : 1,
+                "fontLineHeight" : 1.5,
+                "fontLetterSpacing" : 5
+              }
+            ],
+            "keys" : [
+              960
+            ]
+          },
+          "propertyStorages" : {
+            "c_" : "JDMutableArrayDict",
+            "array" : [
+              {
+                "c_" : "IUPropertyStorage",
+                "propertyStorage" : {
+                  "IUPropertyTextKey" : "<p>A BRAND NEW IU&nbsp;GALLERY<\/p>"
+                }
+              }
+            ],
+            "keys" : [
+              960
+            ]
+          }
+        },
+        {
+          "c_" : "IUText",
+          "htmlID" : "Text21",
+          "name" : "Menu - Part1",
+          "clickType" : 1,
+          "linkBox" : "E54A1E53-883D-4B7B-8C4F-8D608ACDA8AB",
+          "divLink" : "D773D781-08BF-4F1E-B387-27149F265DEA",
+          "positionStorages" : {
+            "c_" : "JDMutableArrayDict",
+            "array" : [
+              {
+                "c_" : "IUPositionStorage",
+                "xUnit" : 0,
+                "yUnit" : 0,
+                "top" : 14,
+                "left" : 485
+              },
+              {
+                "c_" : "IUPositionStorage",
+                "position" : 0,
+                "xUnit" : 0,
+                "yUnit" : 0,
+                "top" : 14,
+                "left" : 665
+              }
+            ],
+            "keys" : [
+              768,
+              960
+            ]
+          },
+          "styleStorages" : {
+            "c_" : "JDMutableArrayDict",
+            "array" : [
+              {
+                "c_" : "IUStyleStorage",
+                "widthUnit" : 0,
+                "heightUnit" : 0,
+                "height" : 30,
+                "fontName" : "Lato",
+                "fontSize" : 10,
+                "fontColor" : {
+                  "c_" : "NSColor",
+                  "R" : 0.9999960064888,
+                  "G" : 1,
+                  "B" : 1,
+                  "A" : 1
+                },
+                "fontWeight" : 2,
+                "fontAlign" : 0,
+                "fontLineHeight" : 3,
+                "fontLetterSpacing" : 5
+              }
+            ],
+            "keys" : [
+              960
+            ]
+          },
+          "propertyStorages" : {
+            "c_" : "JDMutableArrayDict",
+            "array" : [
+              {
+                "c_" : "IUPropertyStorage",
+                "propertyStorage" : {
+                  "IUPropertyTextKey" : "<p>PART1<\/p>"
+                }
+              }
+            ],
+            "keys" : [
+              960
+            ]
+          }
+        },
+        {
+          "c_" : "IUText",
+          "htmlID" : "Text22",
+          "name" : "Menu - Part2",
+          "clickType" : 1,
+          "linkBox" : "E54A1E53-883D-4B7B-8C4F-8D608ACDA8AB",
+          "divLink" : "8F9C4D0B-AC70-4BD7-99D1-87E14ED000A5",
+          "positionStorages" : {
+            "c_" : "JDMutableArrayDict",
+            "array" : [
+              {
+                "c_" : "IUPositionStorage",
+                "xUnit" : 0,
+                "yUnit" : 0,
+                "top" : 14,
+                "left" : 575
+              },
+              {
+                "c_" : "IUPositionStorage",
+                "position" : 0,
+                "xUnit" : 0,
+                "yUnit" : 0,
+                "top" : 14,
+                "left" : 755
+              }
+            ],
+            "keys" : [
+              768,
+              960
+            ]
+          },
+          "styleStorages" : {
+            "c_" : "JDMutableArrayDict",
+            "array" : [
+              {
+                "c_" : "IUStyleStorage",
+                "widthUnit" : 0,
+                "heightUnit" : 0,
+                "height" : 30,
+                "fontName" : "Lato",
+                "fontSize" : 10,
+                "fontColor" : {
+                  "c_" : "NSColor",
+                  "R" : 0.9999960064888,
+                  "G" : 1,
+                  "B" : 1,
+                  "A" : 1
+                },
+                "fontWeight" : 2,
+                "fontAlign" : 0,
+                "fontLineHeight" : 3,
+                "fontLetterSpacing" : 5
+              }
+            ],
+            "keys" : [
+              960
+            ]
+          },
+          "propertyStorages" : {
+            "c_" : "JDMutableArrayDict",
+            "array" : [
+              {
+                "c_" : "IUPropertyStorage",
+                "propertyStorage" : {
+                  "IUPropertyTextKey" : "<p>PART2<\/p>"
+                }
+              }
+            ],
+            "keys" : [
+              960
+            ]
+          }
+        },
+        {
+          "c_" : "IUText",
+          "htmlID" : "Text23",
+          "name" : "Menu - Contact",
+          "clickType" : 1,
+          "linkBox" : "E54A1E53-883D-4B7B-8C4F-8D608ACDA8AB",
+          "divLink" : "102FFCCC-8C79-4F86-B92B-49E023B70BC4",
+          "positionStorages" : {
+            "c_" : "JDMutableArrayDict",
+            "array" : [
+              {
+                "c_" : "IUPositionStorage",
+                "xUnit" : 0,
+                "yUnit" : 0,
+                "top" : 14,
+                "left" : 665
+              },
+              {
+                "c_" : "IUPositionStorage",
+                "position" : 0,
+                "xUnit" : 0,
+                "yUnit" : 0,
+                "top" : 14,
+                "left" : 845
+              }
+            ],
+            "keys" : [
+              768,
+              960
+            ]
+          },
+          "styleStorages" : {
+            "c_" : "JDMutableArrayDict",
+            "array" : [
+              {
+                "c_" : "IUStyleStorage",
+                "widthUnit" : 0,
+                "heightUnit" : 0,
+                "height" : 30,
+                "fontName" : "Lato",
+                "fontSize" : 10,
+                "fontColor" : {
+                  "c_" : "NSColor",
+                  "R" : 0.9999960064888,
+                  "G" : 1,
+                  "B" : 1,
+                  "A" : 1
+                },
+                "fontWeight" : 2,
+                "fontAlign" : 0,
+                "fontLineHeight" : 3,
+                "fontLetterSpacing" : 5
+              }
+            ],
+            "keys" : [
+              960
+            ]
+          },
+          "propertyStorages" : {
+            "c_" : "JDMutableArrayDict",
+            "array" : [
+              {
+                "c_" : "IUPropertyStorage",
+                "propertyStorage" : {
+                  "IUPropertyTextKey" : "<p>CONTACT<\/p>"
+                }
+              }
+            ],
+            "keys" : [
+              960
+            ]
+          }
+        }
+      ],
+      "positionStorages" : {
+        "c_" : "JDMutableArrayDict",
+        "array" : [
+          {
+            "c_" : "IUPositionStorage",
+            "position" : 1
+          }
+        ],
+        "keys" : [
+          960
+        ]
+      },
+      "styleStorages" : {
+        "c_" : "JDMutableArrayDict",
+        "array" : [
+          {
+            "c_" : "IUStyleStorage",
+            "widthUnit" : 0,
+            "heightUnit" : 0
+          }
+        ],
+        "keys" : [
+          960
+        ]
+      }
+    }
+  ],
+  "positionStorages" : {
+    "c_" : "JDMutableArrayDict",
+    "array" : [
+      {
+        "c_" : "IUPositionStorage",
+        "position" : 0,
+        "xUnit" : 0,
+        "yUnit" : 0,
+        "top" : 0,
+        "left" : 0
+      }
+    ],
+    "keys" : [
+      960
+    ]
+  },
+  "styleStorages" : {
+    "c_" : "JDMutableArrayDict",
+    "array" : [
+      {
+        "c_" : "IUStyleStorage",
+        "height" : 42
+      },
+      {
+        "c_" : "IUStyleStorage",
+        "widthUnit" : 1,
+        "heightUnit" : 0,
+        "width" : 100,
+        "height" : 60,
+        "bgColor1" : {
+          "c_" : "NSColor",
+          "R" : 0.1298420429229736,
+          "G" : 0.1298461258411407,
+          "B" : 0.1298439204692841,
+          "A" : 1
+        },
+        "fontColor" : {
+          "c_" : "NSColor",
+          "R" : 0.2549548149108887,
+          "G" : 0.2549616694450378,
+          "B" : 0.2549579739570618,
+          "A" : 1
+        }
+      }
+    ],
+    "keys" : [
+      320,
+      960
+    ]
+  },
+  "propertyStorages" : {
+    "c_" : "JDMutableArrayDict",
+    "array" : [
+      {
+        "c_" : "IUPropertyStorage",
+        "propertyStorage" : {
+          "sheetHeightKey" : 42
+        }
+      },
+      {
+        "c_" : "IUPropertyStorage",
+        "propertyStorage" : {
+          "sheetHeightKey" : 60
+        }
+      }
+    ],
+    "keys" : [
+      320,
+      960
+    ]
+  },
+  "eventVariable" : {
+
+  },
+  "ghostOpacity" : 0.5,
+  "m_" : "292C0499-0C54-4FB0-A4A1-9382A11B55C9",
+  "c_" : "IUClass"
+}

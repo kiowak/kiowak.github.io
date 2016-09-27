@@ -26,7 +26,7 @@
   font-family:'Lato', sans-serif;
   font-size:10px;
   font-weight:400;
-  left:185px;
+  left:155px;
   letter-spacing:5px;
   line-height:1.50;
   top:21px;
@@ -37,7 +37,7 @@
   font-size:10px;
   font-weight:700;
   height:30px;
-  left:645px;
+  left:665px;
   letter-spacing:5px;
   line-height:3;
   text-align:left;
@@ -54,7 +54,7 @@
   font-size:10px;
   font-weight:700;
   height:30px;
-  left:775px;
+  left:755px;
   letter-spacing:5px;
   line-height:3;
   text-align:left;
@@ -86,21 +86,17 @@
   background-color:#FFFFFF;
 }
 .Section1 {
-  background-image:url('/resource/project/rusikvoda.jpg');
+  background-image:url('/resource/project/bg_main.jpg');
   background-size:cover;
   height:640px;
-  opacity:1;
-}
-.CenterBox3 {
-  opacity:0.70;
 }
 .Box16 {
   background-image:url('/resource/project/paper_label.png');
   border-color:rgba(0,0,0,0.25);
   border-width:0px;
-  height:105px;
-  left:29px;
-  top:452px;
+  height:200px;
+  left:280px;
+  top:220px;
   width:400px;
 }
 .Text1 {
@@ -108,10 +104,10 @@
   font-family:'Montserrat', sans-serif;
   font-size:32px;
   font-weight:700;
-  left:35px;
+  left:66px;
   letter-spacing:25px;
   text-align:center;
-  top:24px;
+  top:50px;
 }
 .Box14 {
   background-color:#E3E3E3;
@@ -126,10 +122,10 @@
   font-family:'Lato', sans-serif;
   font-size:10px;
   font-weight:400;
-  left:56px;
+  left:82px;
   letter-spacing:5px;
   line-height:1.50;
-  top:67px;
+  top:140px;
 }
 .Section2 {
   border-color:#D6D6D6;
@@ -554,11 +550,8 @@
   font-family:'Montserrat', sans-serif;
   font-size:24px;
   font-weight:700;
-  left:0px;
+  left:79px;
   letter-spacing:10px;
-  margin-left:auto;
-  margin-right:auto;
-  right:0px;
   text-align:center;
   top:60px;
 }
@@ -567,12 +560,9 @@
   font-family:'Lato', sans-serif;
   font-size:10px;
   font-weight:400;
-  left:0px;
+  left:63px;
   letter-spacing:5px;
   line-height:2;
-  margin-left:auto;
-  margin-right:auto;
-  right:0px;
   text-align:center;
   top:110px;
 }
@@ -589,11 +579,8 @@
   font-family:'Montserrat', sans-serif;
   font-size:18px;
   font-weight:700;
-  left:0px;
+  left:372px;
   letter-spacing:25px;
-  margin-left:auto;
-  margin-right:auto;
-  right:0px;
   text-align:center;
   top:70px;
 }
@@ -610,12 +597,9 @@
   font-family:'Lato', sans-serif;
   font-size:9px;
   font-weight:400;
-  left:0px;
+  left:335px;
   letter-spacing:2px;
   line-height:2;
-  margin-left:auto;
-  margin-right:auto;
-  right:0px;
   text-align:center;
   top:140px;
 }
@@ -744,31 +728,19 @@
     left:184px;
   }
   .Text14 {
-    left:0px;
-    margin-left:auto;
-    margin-right:auto;
-    right:0px;
+    left:79px;
   }
   .Text15 {
-    left:0px;
-    margin-left:auto;
-    margin-right:auto;
-    right:0px;
+    left:63px;
   }
   .Text18 {
-    left:0px;
-    margin-left:auto;
-    margin-right:auto;
-    right:0px;
+    left:276px;
   }
   .Box30 {
     left:344px;
   }
   .Text17 {
-    left:0px;
-    margin-left:auto;
-    margin-right:auto;
-    right:0px;
+    left:239px;
   }
 
 }
@@ -1053,18 +1025,12 @@
   }
   .Text14 {
     font-size:18px;
-    left:0px;
-    margin-left:auto;
-    margin-right:auto;
-    right:0px;
+    left:38px;
     top:40px;
   }
   .Text15 {
     font-size:8px;
-    left:0px;
-    margin-left:auto;
-    margin-right:auto;
-    right:0px;
+    left:19px;
     top:75px;
   }
   .Footer1 {
@@ -1072,10 +1038,7 @@
   }
   .Text18 {
     font-size:14px;
-    left:0px;
-    margin-left:auto;
-    margin-right:auto;
-    right:0px;
+    left:59px;
     top:30px;
   }
   .Box30 {
@@ -1084,10 +1047,7 @@
   }
   .Text17 {
     font-size:8px;
-    left:0px;
-    margin-left:auto;
-    margin-right:auto;
-    right:0px;
+    left:27px;
     top:80px;
   }
 

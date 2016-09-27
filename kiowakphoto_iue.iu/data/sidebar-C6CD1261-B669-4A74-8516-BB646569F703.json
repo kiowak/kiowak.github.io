@@ -1,0 +1,116 @@
+{
+  "htmlID" : "sidebar",
+  "name" : "sidebar",
+  "children" : [
+    {
+      "c_" : "IUText",
+      "htmlID" : "Text3",
+      "name" : "Text3",
+      "positionStorages" : {
+        "c_" : "JDMutableArrayDict",
+        "array" : [
+          {
+            "c_" : "IUPositionStorage",
+            "position" : 0,
+            "horizontalCenter" : true,
+            "xUnit" : 0,
+            "yUnit" : 0,
+            "top" : 43,
+            "left" : 0
+          }
+        ],
+        "keys" : [
+          960
+        ]
+      },
+      "styleStorages" : {
+        "c_" : "JDMutableArrayDict",
+        "array" : [
+          {
+            "c_" : "IUStyleStorage",
+            "widthUnit" : 0,
+            "heightUnit" : 0,
+            "fontName" : "Helvetica",
+            "fontSize" : 12,
+            "fontColor" : {
+              "c_" : "NSColor",
+              "R" : 0.6621160507202148,
+              "G" : 0.6621319055557251,
+              "B" : 0.6621233820915222,
+              "A" : 1
+            },
+            "fontAlign" : 1
+          }
+        ],
+        "keys" : [
+          960
+        ]
+      },
+      "propertyStorages" : {
+        "c_" : "JDMutableArrayDict",
+        "array" : [
+          {
+            "c_" : "IUPropertyStorage",
+            "propertyStorage" : {
+              "IUPropertyTextKey" : "<p>Sidebar Area<\/p>"
+            }
+          }
+        ],
+        "keys" : [
+          960
+        ]
+      }
+    }
+  ],
+  "positionStorages" : {
+    "c_" : "JDMutableArrayDict",
+    "array" : [
+      {
+        "c_" : "IUPositionStorage",
+        "position" : 0,
+        "xUnit" : 0,
+        "yUnit" : 0,
+        "top" : 0,
+        "left" : 0
+      }
+    ],
+    "keys" : [
+      960
+    ]
+  },
+  "styleStorages" : {
+    "c_" : "JDMutableArrayDict",
+    "array" : [
+      {
+        "c_" : "IUStyleStorage",
+        "widthUnit" : 1,
+        "heightUnit" : 0,
+        "width" : 100,
+        "height" : 500
+      }
+    ],
+    "keys" : [
+      960
+    ]
+  },
+  "propertyStorages" : {
+    "c_" : "JDMutableArrayDict",
+    "array" : [
+      {
+        "c_" : "IUPropertyStorage",
+        "propertyStorage" : {
+          "sheetHeightKey" : 120
+        }
+      }
+    ],
+    "keys" : [
+      960
+    ]
+  },
+  "eventVariable" : {
+
+  },
+  "ghostOpacity" : 0.5,
+  "m_" : "C6CD1261-B669-4A74-8516-BB646569F703",
+  "c_" : "IUClass"
+}
