@@ -26,7 +26,7 @@
   font-family:'Lato', sans-serif;
   font-size:10px;
   font-weight:400;
-  left:155px;
+  left:182px;
   letter-spacing:5px;
   line-height:1.50;
   top:21px;
@@ -86,7 +86,7 @@
   background-color:#FFFFFF;
 }
 .Section1 {
-  background-image:url('/resource/project/bg_main.jpg');
+  background-image:url('/resource/project/641A9845.jpg');
   background-size:cover;
   height:640px;
 }
@@ -94,9 +94,10 @@
   background-image:url('/resource/project/paper_label.png');
   border-color:rgba(0,0,0,0.25);
   border-width:0px;
-  height:200px;
+  height:137px;
   left:280px;
-  top:220px;
+  opacity:0.74;
+  top:480px;
   width:400px;
 }
 .Text1 {
@@ -104,28 +105,32 @@
   font-family:'Montserrat', sans-serif;
   font-size:32px;
   font-weight:700;
-  left:66px;
+  left:0px;
   letter-spacing:25px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
   text-align:center;
-  top:50px;
+  top:33px;
 }
 .Box14 {
   background-color:#E3E3E3;
   color:#414141;
   height:2px;
   left:160px;
-  top:115px;
+  top:81px;
   width:80px;
 }
 .Text2 {
+  background-position:center;
   color:#2F2F2F;
   font-family:'Lato', sans-serif;
   font-size:10px;
   font-weight:400;
-  left:82px;
+  left:46px;
   letter-spacing:5px;
   line-height:1.50;
-  top:140px;
+  top:94px;
 }
 .Section2 {
   border-color:#D6D6D6;
@@ -644,7 +649,10 @@
     left:184px;
   }
   .Text1 {
-    left:66px;
+    left:0px;
+    margin-left:auto;
+    margin-right:auto;
+    right:0px;
   }
   .Text2 {
     left:82px;
@@ -789,7 +797,10 @@
   }
   .Text1 {
     font-size:21px;
-    left:26px;
+    left:0px;
+    margin-left:auto;
+    margin-right:auto;
+    right:0px;
     top:40px;
   }
   .Box14 {

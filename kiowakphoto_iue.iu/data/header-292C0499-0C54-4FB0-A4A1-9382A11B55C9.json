@@ -66,7 +66,7 @@
               {
                 "c_" : "IUPropertyStorage",
                 "propertyStorage" : {
-                  "IUPropertyTextKey" : "<p>PAPER<\/p>"
+                  "IUPropertyTextKey" : "<p>KIOWAK<\/p>"
                 }
               }
             ],
@@ -93,7 +93,7 @@
                 "xUnit" : 0,
                 "yUnit" : 0,
                 "top" : 21,
-                "left" : 155
+                "left" : 182
               }
             ],
             "keys" : [
@@ -132,7 +132,7 @@
               {
                 "c_" : "IUPropertyStorage",
                 "propertyStorage" : {
-                  "IUPropertyTextKey" : "<p>A BRAND NEW IU&nbsp;GALLERY<\/p>"
+                  "IUPropertyTextKey" : "<p>THE PHOTOGRAPHER<\/p>"
                 }
               }
             ],

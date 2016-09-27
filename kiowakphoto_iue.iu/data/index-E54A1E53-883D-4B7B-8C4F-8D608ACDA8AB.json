@@ -88,9 +88,10 @@
                         {
                           "c_" : "IUPositionStorage",
                           "position" : 0,
+                          "horizontalCenter" : true,
                           "xUnit" : 0,
                           "yUnit" : 0,
-                          "top" : 50,
+                          "top" : 33,
                           "left" : 66
                         }
                       ],
@@ -136,7 +137,7 @@
                         {
                           "c_" : "IUPropertyStorage",
                           "propertyStorage" : {
-                            "IUPropertyTextKey" : "<p>&nbsp;PAPER<\/p>"
+                            "IUPropertyTextKey" : "<p>OUTDOOR<\/p>"
                           }
                         }
                       ],
@@ -164,7 +165,7 @@
                           "position" : 0,
                           "xUnit" : 0,
                           "yUnit" : 0,
-                          "top" : 115,
+                          "top" : 81,
                           "left" : 160
                         }
                       ],
@@ -225,10 +226,11 @@
                         {
                           "c_" : "IUPositionStorage",
                           "position" : 0,
+                          "horizontalCenter" : false,
                           "xUnit" : 0,
                           "yUnit" : 0,
-                          "top" : 140,
-                          "left" : 82
+                          "top" : 94,
+                          "left" : 46
                         }
                       ],
                       "keys" : [
@@ -244,6 +246,7 @@
                           "c_" : "IUStyleStorage",
                           "widthUnit" : 0,
                           "heightUnit" : 0,
+                          "imageHPosition" : 1,
                           "fontName" : "Lato",
                           "fontSize" : 10,
                           "fontColor" : {
@@ -268,7 +271,7 @@
                         {
                           "c_" : "IUPropertyStorage",
                           "propertyStorage" : {
-                            "IUPropertyTextKey" : "<p>A BRAND NEW IU&nbsp;GALLERY<\/p>"
+                            "IUPropertyTextKey" : "<p>BEAUTIFUL STROBE PHOTOGRAPHY<\/p>"
                           }
                         }
                       ],
@@ -298,7 +301,7 @@
                       "position" : 0,
                       "xUnit" : 0,
                       "yUnit" : 0,
-                      "top" : 220,
+                      "top" : 480,
                       "left" : 280
                     }
                   ],
@@ -321,10 +324,11 @@
                     },
                     {
                       "c_" : "IUStyleStorage",
+                      "opacity" : 0.7387319711538461,
                       "widthUnit" : 0,
                       "heightUnit" : 0,
                       "width" : 400,
-                      "height" : 200,
+                      "height" : 137,
                       "imageName" : "paper_label.png",
                       "topBorderColor" : {
                         "c_" : "NSColor",
@@ -394,7 +398,8 @@
               "widthUnit" : 0,
               "heightUnit" : 0,
               "height" : 640,
-              "imageName" : "bg_main.jpg",
+              "imageName" : "\/641A9845.jpg",
+              "imageType" : 0,
               "imageSizeType" : 1
             }
           ],

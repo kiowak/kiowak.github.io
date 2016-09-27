@@ -51,9 +51,9 @@
   },
   "_htmlData" : {
     "c_" : "IUProjectHTMLData",
-    "buildPath" : "$CurrentFolder\/$AppName_build",
+    "buildPath" : "\/Users\/kiowak\/Devel\/kiowakphoto\/kiowak.github.io",
     "resourcePrefix" : "\/resource",
-    "resourceBuildPath" : "$CurrentFolder\/$AppName_build\/resource",
+    "resourceBuildPath" : "\/Users\/kiowak\/Devel\/kiowakphoto\/kiowak.github.io\/resource",
     "_port" : 8000
   },
   "_documentPath" : "$CurrentFolder\/$AppName_document",
