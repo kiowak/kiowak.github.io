@@ -165,11 +165,12 @@
   height:520px;
 }
 .Transition1 {
-  background-image:url('/resource/project/bg_part1_1.jpg');
+  background-image:url('/resource/project/641A1517.jpg');
   background-position:center center;
   background-size:cover;
   height:100%;
   left:0px;
+  opacity:1;
   top:0px;
   width:50%;
 }
@@ -224,10 +225,9 @@
   width:-webkit-calc(100% - 80px);
 }
 .Box4 {
-  background-image:url('/resource/project/bg_part1_2.jpg');
-  background-position:center;
+  background-image:url('/resource/project/641A1495.jpg');
   background-size:cover;
-  height:50%;
+  height:60.56%;
   left:50%;
   top:0px;
   width:50%;
@@ -241,20 +241,21 @@
   width:100%;
 }
 .Box1 {
-  height:50%;
+  height:39.62%;
   left:50%;
-  top:50%;
+  top:60.38%;
   width:50%;
 }
 .Text5 {
+  background-position:center;
   font-family:'Lato', sans-serif;
   font-size:14px;
   font-weight:300;
   height:112px;
-  left:40px;
+  left:39px;
   line-height:2;
   text-align:center;
-  top:74px;
+  top:47px;
   width:80.00%;
   width:calc(100% - 80px);
   width:-moz-calc(100% - 80px);
@@ -277,19 +278,19 @@
   left:40px;
   line-height:2;
   text-align:center;
-  top:74px;
+  top:47px;
   width:80.00%;
   width:calc(100% - 80px);
   width:-moz-calc(100% - 80px);
   width:-webkit-calc(100% - 80px);
 }
 .Box20 {
-  background-image:url('/resource/project/bg_part1_3.jpg');
+  background-image:url('/resource/project/641A0052-Edit.jpg');
   background-position:bottom;
   background-size:cover;
-  height:50%;
+  height:62.59%;
   left:0%;
-  top:50%;
+  top:37.41%;
   width:50%;
 }
 .Box21 {
@@ -302,11 +303,11 @@
   width:100%;
 }
 .Transition3 {
-  background-image:url('/resource/project/bg_part1_4.jpg');
+  background-image:url('/resource/project/641A0172-Edit.jpg');
   background-position:center center;
   background-size:cover;
-  height:100%;
-  left:50%;
+  height:100.37%;
+  left:50.03%;
   top:0px;
   width:50%;
 }
@@ -387,7 +388,7 @@
   font-family:'Lato', sans-serif;
   font-size:14px;
   font-weight:300;
-  left:96px;
+  left:95px;
   line-height:2;
   text-align:center;
   top:220px;
@@ -397,17 +398,15 @@
   height:260px;
 }
 .Box12 {
-  background-image:url('/resource/project/bg_part2_1.jpg');
-  background-position:right center;
+  background-image:url('/resource/project/641A6203.jpg');
   background-size:cover;
   height:100%;
-  left:0%;
+  left:0.05%;
   top:0px;
   width:25%;
 }
 .Box10 {
-  background-image:url('/resource/project/bg_part2_2.jpg');
-  background-position:center center;
+  background-image:url('/resource/project/641A6252.jpg');
   background-size:cover;
   height:100%;
   left:25%;
@@ -415,8 +414,8 @@
   width:25%;
 }
 .Box11 {
-  background-image:url('/resource/project/bg_part2_3.jpg');
-  background-position:center center;
+  background-image:url('/resource/project/641A6274.jpg');
+  background-position:center 0px;
   background-size:cover;
   height:100%;
   left:50%;
@@ -424,7 +423,7 @@
   width:25%;
 }
 .Box13 {
-  background-image:url('/resource/project/bg_part2_4.jpg');
+  background-image:url('/resource/project/641A6143.jpg');
   background-position:center center;
   background-size:cover;
   height:100%;
@@ -457,7 +456,7 @@
 }
 .Box18 {
   background-color:#EBEBEB;
-  background-image:url('/resource/project/bg_part2_5.jpg');
+  background-image:url('/resource/project/641A1310.jpg');
   background-position:center center;
   background-size:cover;
   height:100%;
@@ -479,7 +478,7 @@
 }
 .Box23 {
   background-color:#EBEBEB;
-  background-image:url('/resource/project/bg_part2_6.jpg');
+  background-image:url('/resource/project/641A2005bw.jpg');
   background-position:center;
   background-size:cover;
   height:100%;

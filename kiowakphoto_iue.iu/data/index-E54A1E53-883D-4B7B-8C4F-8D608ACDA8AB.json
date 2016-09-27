@@ -1062,11 +1062,12 @@
                 },
                 {
                   "c_" : "IUStyleStorage",
+                  "opacity" : 1,
                   "widthUnit" : 1,
                   "heightUnit" : 1,
                   "width" : 50,
                   "height" : 100,
-                  "imageName" : "\/bg_part1_1.jpg",
+                  "imageName" : "\/641A1517.jpg",
                   "imageType" : 0,
                   "imageHPosition" : 1,
                   "imageVPosition" : 1,
@@ -1174,10 +1175,11 @@
                   "widthUnit" : 1,
                   "heightUnit" : 1,
                   "width" : 50,
-                  "height" : 50,
-                  "imageName" : "bg_part1_2.jpg",
-                  "imageVPosition" : 1,
-                  "imageSizeType" : 1
+                  "height" : 60.55964660644531,
+                  "imageName" : "\/641A1495.jpg",
+                  "imageType" : 0,
+                  "imageSizeType" : 1,
+                  "imageAttachment" : 0
                 }
               ],
               "keys" : [
@@ -1215,8 +1217,8 @@
                       "position" : 0,
                       "xUnit" : 0,
                       "yUnit" : 0,
-                      "top" : 74,
-                      "left" : 40
+                      "top" : 47,
+                      "left" : 39
                     }
                   ],
                   "keys" : [
@@ -1240,6 +1242,7 @@
                       "width" : 80,
                       "height" : 112,
                       "calcWidth" : "100% - 80px",
+                      "imageVPosition" : 1,
                       "fontName" : "Lato",
                       "fontSize" : 14,
                       "fontWeight" : 0,
@@ -1281,7 +1284,7 @@
                   "position" : 0,
                   "xUnit" : 1,
                   "yUnit" : 1,
-                  "top" : 50,
+                  "top" : 60.380859375,
                   "left" : 50
                 }
               ],
@@ -1303,7 +1306,7 @@
                   "widthUnit" : 1,
                   "heightUnit" : 1,
                   "width" : 50,
-                  "height" : 50
+                  "height" : 39.619140625
                 }
               ],
               "keys" : [
@@ -1365,7 +1368,7 @@
                       "position" : 0,
                       "xUnit" : 0,
                       "yUnit" : 0,
-                      "top" : 74,
+                      "top" : 47,
                       "left" : 40
                     }
                   ],
@@ -1516,7 +1519,7 @@
                   "position" : 0,
                   "xUnit" : 1,
                   "yUnit" : 1,
-                  "top" : 50,
+                  "top" : 37.40760040283203,
                   "left" : 0
                 }
               ],
@@ -1538,8 +1541,9 @@
                   "widthUnit" : 1,
                   "heightUnit" : 1,
                   "width" : 50,
-                  "height" : 50,
-                  "imageName" : "bg_part1_3.jpg",
+                  "height" : 62.59239959716797,
+                  "imageName" : "\/641A0052-Edit.jpg",
+                  "imageType" : 0,
                   "imageVPosition" : 2,
                   "imageSizeType" : 1
                 }
@@ -1894,7 +1898,7 @@
                   "xUnit" : 1,
                   "yUnit" : 0,
                   "top" : 0,
-                  "left" : 50
+                  "left" : 50.02685546875
                 }
               ],
               "keys" : [
@@ -1915,8 +1919,8 @@
                   "widthUnit" : 1,
                   "heightUnit" : 1,
                   "width" : 50,
-                  "height" : 100,
-                  "imageName" : "\/bg_part1_4.jpg",
+                  "height" : 100.3680877685547,
+                  "imageName" : "\/641A0172-Edit.jpg",
                   "imageType" : 0,
                   "imageHPosition" : 1,
                   "imageVPosition" : 1,
@@ -2094,7 +2098,7 @@
                       "xUnit" : 0,
                       "yUnit" : 0,
                       "top" : 220,
-                      "left" : 96
+                      "left" : 95
                     }
                   ],
                   "keys" : [
@@ -2244,7 +2248,7 @@
                   "xUnit" : 1,
                   "yUnit" : 0,
                   "top" : 0,
-                  "left" : 0
+                  "left" : 0.0467936210334301
                 }
               ],
               "keys" : [
@@ -2267,9 +2271,8 @@
                   "heightUnit" : 1,
                   "width" : 25,
                   "height" : 100,
-                  "imageName" : "bg_part2_1.jpg",
-                  "imageHPosition" : 2,
-                  "imageVPosition" : 1,
+                  "imageName" : "\/641A6203.jpg",
+                  "imageType" : 0,
                   "imageSizeType" : 1
                 }
               ],
@@ -2320,9 +2323,8 @@
                   "heightUnit" : 1,
                   "width" : 25,
                   "height" : 100,
-                  "imageName" : "bg_part2_2.jpg",
-                  "imageHPosition" : 1,
-                  "imageVPosition" : 1,
+                  "imageName" : "\/641A6252.jpg",
+                  "imageType" : 0,
                   "imageSizeType" : 1
                 }
               ],
@@ -2374,9 +2376,11 @@
                   "heightUnit" : 1,
                   "width" : 25,
                   "height" : 100,
-                  "imageName" : "bg_part2_3.jpg",
+                  "imageName" : "\/641A6274.jpg",
+                  "imageType" : 0,
                   "imageHPosition" : 1,
                   "imageVPosition" : 1,
+                  "imageY" : 0,
                   "imageSizeType" : 1
                 }
               ],
@@ -2429,7 +2433,8 @@
                   "heightUnit" : 1,
                   "width" : 25,
                   "height" : 100,
-                  "imageName" : "bg_part2_4.jpg",
+                  "imageName" : "\/641A6143.jpg",
+                  "imageType" : 0,
                   "imageHPosition" : 1,
                   "imageVPosition" : 1,
                   "imageSizeType" : 1
@@ -2685,7 +2690,8 @@
                   "heightUnit" : 1,
                   "width" : 50,
                   "height" : 100,
-                  "imageName" : "bg_part2_5.jpg",
+                  "imageName" : "\/641A1310.jpg",
+                  "imageType" : 0,
                   "imageHPosition" : 1,
                   "imageVPosition" : 1,
                   "imageSizeType" : 1,
@@ -2815,7 +2821,8 @@
                   "heightUnit" : 1,
                   "width" : 50,
                   "height" : 100,
-                  "imageName" : "bg_part2_6.jpg",
+                  "imageName" : "\/641A2005bw.jpg",
+                  "imageType" : 0,
                   "imageVPosition" : 1,
                   "imageSizeType" : 1,
                   "bgColor1" : {
